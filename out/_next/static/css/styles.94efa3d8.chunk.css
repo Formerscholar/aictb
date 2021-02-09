@@ -1,0 +1,959 @@
+#About {
+  padding-top: 5.625rem;
+}
+#About .CompanyName {
+  height: 18.75rem;
+  background: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/about_bg.png") no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+#About .CompanyName .Compartment {
+  width: 6.25rem;
+  height: 0.25rem;
+  background: #FFFFFF;
+  margin-top: 1.25rem;
+}
+#About .body {
+  padding: 5.625rem 22.5rem;
+}
+#About .body .CompanyProfile {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+#About .body .CompanyProfile .introduce {
+  width: 31.25rem;
+  height: 20.8125rem;
+}
+#About .body .CompanyProfile strong {
+  width: 41rem;
+  margin-left: 3.25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+#About .body .CompanyProfile strong span {
+  width: 40rem;
+  font-size: 1rem;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #999999;
+  font-style: normal;
+  text-indent: 2rem;
+}
+#About .body .contact_us {
+  margin-top: 5.625rem;
+}
+#About .body .contact_us .title_box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+#About .body .contact_us .title_box strong {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #333333;
+}
+#About .body .contact_us .title_box em {
+  margin-top: 1.5625rem;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #999999;
+  font-style: normal;
+}
+#About .body .contact_us .contact_body {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 5.625rem;
+}
+#About .body .contact_us .contact_body .lt_form {
+  flex: 1;
+}
+#About .body .contact_us .contact_body .lt_form .inp_def {
+  width: 100%;
+  border-radius: 0.3125rem;
+  border: 1px solid #DFDFDF;
+  background: #FDF7F7;
+  height: 3.4375rem;
+  margin-bottom: 1.875rem;
+}
+#About .body .contact_us .contact_body .lt_form .problem {
+  height: 8.4375rem;
+}
+#About .body .contact_us .contact_body .lt_form .btn {
+  width: 10.3125rem;
+  height: 3.125rem;
+  background: #FF4D3A;
+  box-shadow: 0px 0.375rem 0.75rem 0px rgba(240, 127, 71, 0.34);
+  border-radius: 1.5625rem;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #FFFFFF;
+}
+#About .body .contact_us .contact_body .rt_map {
+  height: 20.9375rem;
+  background: #BBBBBB;
+  border: 0.5rem solid #FFFFFF;
+  box-shadow: 0px 0px 0.75rem 0px rgba(191, 191, 191, 0.46);
+  border-radius: 0.3125rem;
+  flex: 1;
+  margin-left: 5.625rem;
+}
+
+#download {
+  padding-top: 5.625rem;
+}
+#download main .Showdownload {
+  height: 43.75rem;
+  background: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/down_bg.png") no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#download main .Showdownload .lt_warp .tp_box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+#download main .Showdownload .lt_warp .tp_box .title {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+#download main .Showdownload .lt_warp .tp_box .title .logo_download {
+  width: 3.8125rem;
+  height: 3.8125rem;
+  margin-right: 0.875rem;
+}
+#download main .Showdownload .lt_warp .tp_box .title .text {
+  font-size: 2.9375rem;
+  font-family: 'Source Han Sans CN';
+  font-weight: 400;
+  color: #FFFFFF;
+}
+#download main .Showdownload .lt_warp .tp_box .tip {
+  font-size: 1.4375rem;
+  font-weight: 400;
+  color: #FFFFFF;
+  font-style: normal;
+  margin-top: 1.1875rem;
+}
+#download main .Showdownload .lt_warp .bt_box {
+  margin-top: 4.25rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+#download main .Showdownload .lt_warp .bt_box .DownloadQRcode {
+  width: 8.25rem;
+  height: 9rem;
+  margin-right: 2.875rem;
+}
+#download main .Showdownload .lt_warp .bt_box .btns .iphone_download {
+  width: 11.1875rem;
+  height: 2.9375rem;
+  background: #FF564B;
+  border-radius: 1.4375rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 1.4375rem;
+  cursor: pointer;
+}
+#download main .Showdownload .lt_warp .bt_box .btns .iphone_download .iphone_icon {
+  width: 1.375rem;
+  height: 1.75rem;
+  background: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/apple_icon.png") no-repeat;
+  background-size: 100% 100%;
+  margin-right: 0.875rem;
+}
+#download main .Showdownload .lt_warp .bt_box .btns .iphone_download .iphone_text {
+  font-size: 1.125rem;
+  font-family: 'PingFang SC';
+  font-weight: 500;
+  color: #FFFFFF;
+}
+#download main .Showdownload .lt_warp .bt_box .btns .android_download {
+  margin-top: 1.5625rem;
+  width: 11.1875rem;
+  height: 2.9375rem;
+  background: rgba(255, 87, 76, 0.2);
+  border: 1px solid #FFFFFF;
+  border-radius: 1.4375rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  cursor: pointer;
+  padding-left: 1.4375rem;
+}
+#download main .Showdownload .lt_warp .bt_box .btns .android_download .android_icon {
+  width: 1.375rem;
+  height: 1.625rem;
+  background: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/Android_icon.png") no-repeat;
+  background-size: 100% 100%;
+  margin-right: 0.875rem;
+}
+#download main .Showdownload .lt_warp .bt_box .btns .android_download .android_text {
+  font-size: 1.125rem;
+  font-family: 'PingFang SC';
+  font-weight: 500;
+  color: #FFFFFF;
+}
+#download main .Showdownload .rt_warp {
+  width: 17.25rem;
+  height: 32.25rem;
+  background: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/phone_bg.png") no-repeat;
+  background-size: 100% 100%;
+  margin-left: 10.1875rem;
+  padding: 5.25rem 2.5rem;
+}
+#download main .Showdownload .rt_warp img {
+  width: 100%;
+  height: 100%;
+}
+#download main .lists {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 22.5rem;
+  height: 37.5rem;
+}
+#download main .lists .text_box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+#download main .lists .text_box .title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #222222;
+  margin-bottom: 2.4375rem;
+}
+#download main .lists .text_box .tip {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #999999;
+  font-style: normal;
+}
+#download main .lists .rt_text {
+  align-items: flex-end;
+}
+#download main .lists img {
+  width: 28.125rem;
+  height: 22.75rem;
+}
+
+#Student {
+  padding-top: 5.625rem;
+}
+#Student .banner {
+  height: 6.25rem;
+  background: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/student_bg.png") no-repeat;
+  background-size: 100% 100%;
+}
+#Student .search_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3.75rem 0;
+}
+#Student .search_box .search {
+  width: 38.3125rem;
+}
+#Student .search_box .search .ant-input-affix-wrapper {
+  border-top-left-radius: 1.25rem;
+  border-bottom-left-radius: 1.25rem;
+  padding-left: 1.875rem;
+}
+#Student .search_box .search .ant-input-search-button {
+  border-radius: 0 1.25rem 1.25rem 0;
+}
+#Student .main_body {
+  margin-bottom: 29rem;
+  padding: 0 22.5rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+#Student .main_body .lt_warp {
+  width: 322px;
+  height: 811px;
+  background: #FFFFFF;
+  border: 1px solid #E5E5E5;
+}
+#Student .main_body .lt_warp .lt_item {
+  height: 3.1875rem;
+  line-height: 3.1875rem;
+  border-bottom: 1px solid #E5E5E5;
+  padding-left: 1.875rem;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #333333;
+  cursor: pointer;
+}
+#Student .main_body .lt_warp .lt_item:last-child {
+  border: none;
+}
+#Student .main_body .lt_warp .current {
+  background: #FF4D3A;
+  color: #fff;
+}
+#Student .main_body .rt_box {
+  flex: 1;
+  margin-left: 0.9375rem;
+  border: 1px solid #E5E5E5;
+  padding: 1.875rem;
+}
+#Student .main_body .rt_box .ri_item {
+  margin-bottom: 1.875rem;
+  padding-bottom: 1.875rem;
+  border-bottom: 1px solid #E5E5E5;
+}
+#Student .main_body .rt_box .ri_item:last-child {
+  border: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+#Student .main_body .rt_box .ri_item .title {
+  background: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/qs_icon.png") no-repeat;
+  background-size: 1rem 1.25rem;
+  padding-left: 1.4375rem;
+  cursor: pointer;
+}
+#Student .main_body .rt_box .ri_item .content {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #999999;
+  margin-top: 1.1875rem;
+}
+
+#Help {
+  padding-top: 5.625rem;
+}
+#Help .banner {
+  width: 100%;
+  height: 18.75rem;
+  background: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/help_banner_bg.png") no-repeat;
+  background-size: auto auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5.625rem;
+}
+#Help .banner .type_change {
+  width: 331px;
+  height: 109px;
+  background: #FFFFFF;
+  box-shadow: 0px 6px 5px 0px rgba(240, 127, 71, 0.07);
+  border-radius: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 4.375rem;
+  cursor: pointer;
+}
+#Help .banner .type_change h1 {
+  margin-bottom: 0;
+  margin-left: 2.0625rem;
+  font-size: 26px;
+  font-weight: 400;
+  color: #222222;
+}
+#Help .banner .type_change .current {
+  color: #FF4D3A;
+}
+#Help .banner .type_change:first-child {
+  margin-right: 3.25rem;
+}
+#Help .newbie {
+  padding: 0 22.5rem;
+  margin-bottom: 5.625rem;
+}
+#Help .newbie .top_box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#Help .newbie .top_box .lt_title {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+#Help .newbie .top_box .lt_title .text {
+  font-size: 2.5rem;
+  font-weight: 400;
+  color: #333333;
+}
+#Help .newbie .top_box .lt_title .help_icon {
+  margin-left: 1.25rem;
+}
+#Help .newbie .top_box .rt_more {
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: #999999;
+  cursor: pointer;
+}
+#Help .newbie .grid_box {
+  width: 100%;
+  background: #FFFFFF;
+  border: 1px solid #E5E5E5;
+  margin-top: 3.75rem;
+  padding: 1.5625rem 3.125rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+#Help .newbie .grid_box .item {
+  width: 50%;
+  height: 2.8125rem;
+  line-height: 2.8125rem;
+  background: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/qs_icon.png") no-repeat;
+  background-size: 1rem 1.25rem;
+  background-position: 0 50%;
+  padding-left: 1.25rem;
+  cursor: pointer;
+}
+#Help .video {
+  padding: 0 22.5rem;
+  margin-bottom: 5.625rem;
+}
+#Help .video .title {
+  font-size: 2.5rem;
+  font-weight: 400;
+  color: #333333;
+}
+#Help .video .title span {
+  margin-right: 1.25rem;
+}
+#Help .video .video_dom {
+  width: 100%;
+  height: 31.25rem;
+  margin-top: 3.75rem;
+}
+
+#home .section {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#home .section .fp-tableCell {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 22.5rem;
+}
+#home .section .fp-tableCell .text_box h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #222222;
+}
+#home .section .fp-tableCell .text_box em {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #999999;
+  font-style: normal;
+}
+#home .section .fp-tableCell .resourcesimg {
+  width: 30.75rem;
+  height: 39.875rem;
+  margin-left: 8.1875rem;
+}
+#home .section .fp-tableCell .pictureimg {
+  width: 30.0625rem;
+  height: 30.25rem;
+  margin-right: 8.875rem;
+}
+#home .section .fp-tableCell .Wrongpushimg {
+  width: 37.39375rem;
+  height: 22.58125rem;
+  margin-left: 4.1875rem;
+}
+#home .section .fp-tableCell .Studyreportimg {
+  width: 33.14375rem;
+  height: 27.39375rem;
+  margin-right: 5.8125rem;
+}
+#home .section .foot {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+#Join {
+  padding-top: 5.625rem;
+}
+#Join .join_banner {
+  width: 100%;
+  height: 43.75rem;
+  background: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/join_bg.png") no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#Join .join_banner .left_info {
+  width: 28rem;
+}
+#Join .join_banner .left_info .title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #FEFEFE;
+  margin-bottom: 5.25rem;
+}
+#Join .join_banner .left_info .content {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #FFFFFF;
+}
+#Join .join_banner .left_info .Experience {
+  width: 10.3125rem;
+  height: 3.125rem;
+  background: #FF4D3A;
+  box-shadow: 0px 0.375rem 0.75rem 0px rgba(240, 127, 71, 0.34);
+  border-radius: 1.5625rem;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #FFFFFF;
+  margin-top: 2.1875rem;
+}
+#Join .join_banner .join_img {
+  width: 38.9375rem;
+  height: 24.0625rem;
+  margin-left: 4.25rem;
+}
+#Join .prospects {
+  margin-top: 5.625rem;
+  padding-bottom: 5.625rem;
+}
+#Join .prospects .title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #333333;
+  text-align: center;
+}
+#Join .prospects .subtitle {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #999999;
+  margin-top: 1.5625rem;
+}
+#Join .prospects .item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+}
+#Join .prospects .item .advertising {
+  width: 31.25rem;
+  height: 16.25rem;
+  margin-right: 3.125rem;
+}
+#Join .prospects .item .content_text {
+  width: 40.375rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+#Join .prospects .item .content_text .title {
+  font-size: 1.875rem;
+  font-weight: 400;
+  color: #333333;
+  margin-bottom: 1.75rem;
+}
+#Join .prospects .item .content_text .content {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #999999;
+}
+#Join .prospects .item1 {
+  margin-bottom: 6.1875rem;
+}
+#Join .prospects .item1 .advertising {
+  width: 40.625rem;
+  height: 21.625rem;
+  margin-left: 3.5rem;
+  margin-right: 0;
+}
+#Join .Advantage {
+  width: 100%;
+  padding: 5.625rem 0;
+  background: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/Advantage_bg.png") no-repeat;
+  background-size: 12.875rem 25.3125rem;
+  background-position: 0 26.0625rem;
+  background-color: #FBFBFB;
+}
+#Join .Advantage .bg {
+  width: 100%;
+  height: 100%;
+  background: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/Advantage_bg.png") no-repeat;
+  background-size: 12.875rem 25.3125rem;
+  background-position: 100% 0;
+}
+#Join .Advantage .bg .title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #333333;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+#Join .Advantage .bg .subtitle {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #999999;
+  text-align: center;
+}
+#Join .Advantage .bg .grid_box {
+  display: grid;
+  grid-template-columns: repeat(3, 18rem);
+  grid-template-rows: repeat(2, 1fr);
+  grid-gap: 5.625rem 8.125rem;
+  justify-content: center;
+  align-content: center;
+  margin-top: 5.625rem;
+}
+#Join .Advantage .bg .grid_box .item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+#Join .Advantage .bg .grid_box .item .Advantage_icon {
+  margin-bottom: 3.125rem;
+}
+#Join .Advantage .bg .grid_box .item .productname {
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: #333333;
+  margin-bottom: 1.5rem;
+}
+#Join .Advantage .bg .grid_box .item .Description {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #999999;
+}
+#Join .Cooperation {
+  padding: 5.625rem 0;
+}
+#Join .Cooperation .title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #333333;
+  margin-bottom: 1.5625rem;
+  text-align: center;
+}
+#Join .Cooperation .subtitle {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #999999;
+  margin-bottom: 5.625rem;
+  text-align: center;
+}
+#Join .Cooperation .list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 22.5rem;
+}
+#Join .Cooperation .list .item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 22.5rem;
+  height: 29.5625rem;
+  background: #FFF5F5;
+  opacity: 0.8;
+  padding: 0 2.8125rem;
+}
+#Join .Cooperation .list .item:nth-child(2) .icon {
+  background-image: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/Cooperation_channel.png");
+}
+#Join .Cooperation .list .item:nth-child(3) .icon {
+  background-image: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/Cooperation_income.png");
+}
+#Join .Cooperation .list .item .icon {
+  display: block;
+  background: url('https://aictb.oss-cn-shanghai.aliyuncs.com/website/Cooperation_sys.png') no-repeat;
+  background-size: 6.5rem 6.25rem;
+  background-position: 50% 50%;
+  width: 11.125rem;
+  height: 11.125rem;
+  background-color: #FF4D3A;
+  border-radius: 50%;
+  margin-bottom: 3.125rem;
+}
+#Join .Cooperation .list .item .title {
+  font-size: 1.875rem;
+  font-weight: bold;
+  color: #333333;
+  margin-bottom: 1.75rem;
+}
+#Join .Cooperation .list .item .info {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #333333;
+  text-align: center;
+}
+#Join .Process {
+  width: 100%;
+  height: 26.1875rem;
+  background: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/Process_bg.png") no-repeat;
+  background-size: 100% 100%;
+  padding: 5.625rem 22.5rem;
+}
+#Join .Process .title {
+  display: block;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #333333;
+  margin-bottom: 1.5625rem;
+  font-style: normal;
+  text-align: center;
+}
+#Join .Process .subtitle {
+  display: block;
+  font-size: 1rem;
+  font-weight: bold;
+  font-style: normal;
+  color: #999999;
+  margin-bottom: 3.125rem;
+  text-align: center;
+}
+#Join .Process .flowchart {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#Join .Process .flowchart .text_box {
+  width: 7.125rem;
+  height: 7.125rem;
+  border: 0.875rem solid #FFD2CD;
+  border-radius: 50%;
+  background: #FF4D3A;
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#Join .Process .flowchart .arrows_icon {
+  width: 1.875rem;
+  height: 1.75rem;
+  background: url("https://aictb.oss-cn-shanghai.aliyuncs.com/website/arrows.png") no-repeat;
+  background-size: 100% 100%;
+}
+#Join .Online {
+  padding: 5.625rem 0;
+}
+#Join .Online .title {
+  display: block;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #333333;
+  text-align: center;
+  font-style: normal;
+  margin-bottom: 1.5625rem;
+}
+#Join .Online .subtitle {
+  display: block;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #999999;
+  text-align: center;
+  font-style: normal;
+  margin-bottom: 3.6875rem;
+}
+#Join .Online .form {
+  width: 31.25rem;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#Join .Online .form .bor_inp {
+  height: 46px;
+  background: #FFFFFF;
+  border: 1px solid #FF4D3A;
+  margin-bottom: 30px;
+}
+#Join .Online .form .selct_box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+  width: 100%;
+}
+#Join .Online .form .bor_ta {
+  height: 100px;
+  background: #FFFFFF;
+  border: 1px solid #FF4D3A;
+  margin-bottom: 30px;
+}
+#Join .Online .form .commitBtn {
+  width: 124px;
+  height: 50px;
+  background: #FF4D3A;
+  box-shadow: 0px 6px 12px 0px rgba(240, 127, 71, 0.34);
+  border-radius: 25px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #FFFFFF;
+}
+
+header {
+  width: 100%;
+  height: 5.625rem;
+  background: #FFFFFF;
+  box-shadow: 0px 2px 1px 0px rgba(0, 0, 0, 0.02);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 666;
+}
+header .box_warp {
+  width: 100.9375rem;
+  height: 5.625rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header .logo_box {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex: 3;
+}
+header .logo_box .logo {
+  width: 10.4375rem;
+  height: 2.375rem;
+  margin-right: 1.875rem;
+}
+header .logo_box .border {
+  width: 1px;
+  height: 1.875rem;
+  background: #E5E5E5;
+}
+header .logo_box .tip {
+  width: 7.625rem;
+  height: 2.125rem;
+  margin-left: 2rem;
+}
+header .navLink {
+  flex: 7;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+header .navLink nav strong {
+  margin-right: 5rem;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #222222;
+}
+header .navLink nav .current {
+  color: #E50304;
+}
+header .navLink section {
+  width: 10.625rem;
+  height: 2rem;
+  border: 1px solid #000000;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #222222;
+}
+
+footer {
+  height: 8.875rem;
+  background-color: #222222;
+  z-index: 9999;
+}
+footer .foot_warp {
+  width: 90rem;
+  height: 7.625rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+footer .foot_warp .lt_box {
+  display: grid;
+  grid-template-columns: 8.125rem 8.125rem 8.125rem 8.125rem;
+  grid-template-rows: 1.25rem 1.25rem;
+  grid-gap: 1.25rem 7.125rem;
+  justify-items: start;
+  align-items: start;
+  justify-content: center;
+  align-content: center;
+}
+footer .foot_warp .lt_box em {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #FFFFFF;
+  font-style: normal;
+}
+footer .foot_warp .lt_box em:nth-child(5),
+footer .foot_warp .lt_box em:nth-child(6),
+footer .foot_warp .lt_box em:nth-child(7),
+footer .foot_warp .lt_box em:nth-child(8) {
+  font-size: 1rem;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.6);
+}
+footer .foot_warp .rt_box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+footer .foot_warp .rt_box .QRcode_box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+footer .foot_warp .rt_box .QRcode_box img {
+  width: 3.5rem;
+  height: 3.5rem;
+}
+footer .foot_warp .rt_box .QRcode_box em {
+  font-size: 0.625rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.5);
+  margin-top: 0.3125rem;
+  font-style: normal;
+  white-space: nowrap;
+}
+footer small {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 1.25rem;
+  background-color: #3B3B3B;
+  font-size: 0.625rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.5);
+}
+
